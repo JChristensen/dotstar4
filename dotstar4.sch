@@ -1881,7 +1881,7 @@ MELF 0.25 W</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="APA101C" prefix="D">
+<deviceset name="APA102C" prefix="D">
 <description>APA102C Serial RGB LED</description>
 <gates>
 <gate name="G$1" symbol="APA102C" x="0" y="0"/>
@@ -29491,10 +29491,10 @@ Standard 4-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 </classes>
 <parts>
 <part name="FRAME1" library="frames" library_urn="urn:adsk.eagle:library:229" deviceset="FRAME_A_L" device="" value="MyFrame"/>
-<part name="D1" library="_jc" deviceset="APA101C" device=""/>
-<part name="D2" library="_jc" deviceset="APA101C" device=""/>
-<part name="D3" library="_jc" deviceset="APA101C" device=""/>
-<part name="D4" library="_jc" deviceset="APA101C" device=""/>
+<part name="D1" library="_jc" deviceset="APA102C" device=""/>
+<part name="D2" library="_jc" deviceset="APA102C" device=""/>
+<part name="D3" library="_jc" deviceset="APA102C" device=""/>
+<part name="D4" library="_jc" deviceset="APA102C" device=""/>
 <part name="P+1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
 <part name="GND1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>

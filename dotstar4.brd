@@ -3803,19 +3803,19 @@ jc mods for clearance, distance, sizes, supply, masks</description>
 </pass>
 </autorouter>
 <elements>
-<element name="D1" library="_jc" package="RGB5050" value="APA101C" x="15" y="6" smashed="yes">
+<element name="D1" library="_jc" package="RGB5050" value="APA102C" x="15" y="6" smashed="yes">
 <attribute name="NAME" x="18" y="5.5" size="1.016" layer="25" ratio="16"/>
 <attribute name="VALUE" x="12.5" y="0" size="1.016" layer="27" ratio="16"/>
 </element>
-<element name="D2" library="_jc" package="RGB5050" value="APA101C" x="37" y="6" smashed="yes">
+<element name="D2" library="_jc" package="RGB5050" value="APA102C" x="37" y="6" smashed="yes">
 <attribute name="NAME" x="32.5" y="5.5" size="1.016" layer="25" ratio="16"/>
 <attribute name="VALUE" x="34.5" y="0" size="1.016" layer="27" ratio="16"/>
 </element>
-<element name="D3" library="_jc" package="RGB5050" value="APA101C" x="59" y="6" smashed="yes">
+<element name="D3" library="_jc" package="RGB5050" value="APA102C" x="59" y="6" smashed="yes">
 <attribute name="NAME" x="54.5" y="5.5" size="1.016" layer="25" ratio="16"/>
 <attribute name="VALUE" x="56.5" y="0" size="1.016" layer="27" ratio="16"/>
 </element>
-<element name="D4" library="_jc" package="RGB5050" value="APA101C" x="81" y="6" smashed="yes">
+<element name="D4" library="_jc" package="RGB5050" value="APA102C" x="81" y="6" smashed="yes">
 <attribute name="NAME" x="76.5" y="8" size="1.016" layer="25" ratio="16"/>
 <attribute name="VALUE" x="78.5" y="0" size="1.016" layer="27" ratio="16"/>
 </element>
