@@ -1,0 +1,21 @@
+Partlist
+
+Exported from dotstar4.sch at 12/14/20 6:06 PM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Device     Package  Library  Sheet
+
+C1       10uF           C-USM0805  M0805    _jc      1
+C2       100nF          C-USM0805  M0805    _jc      1
+C3       100nF          C-USM0805  M0805    _jc      1
+C4       100nF          C-USM0805  M0805    _jc      1
+C5       100nF          C-USM0805  M0805    _jc      1
+D1       APA102C        APA102C    RGB5050  _jc      1
+D2       APA102C        APA102C    RGB5050  _jc      1
+D3       APA102C        APA102C    RGB5050  _jc      1
+D4       APA102C        APA102C    RGB5050  _jc      1
+J1       IN/OUT         M04X2      2X4      SparkFun 1
+J2       OUT            M04PTH     1X04     SparkFun 1
